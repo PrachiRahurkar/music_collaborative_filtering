@@ -1,4 +1,3 @@
-# musiccollaborativefiltering
 This repo features the code for obtaining artist recommendations
 based on user's history of artist likes. Matrix Factorization using Alternating Least Squares is used here.
 

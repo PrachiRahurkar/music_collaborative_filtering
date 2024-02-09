@@ -1,6 +1,6 @@
 # musiccollaborativefiltering
-This repo features the code used in the "Build a Spotify-like Music 
-Recommender System" video on The Sound of AI YouTube channel.
+This repo features the code for obtaining artist recommendations
+based on user's history of artist likes. Matrix Factorization using Alternating Least Squares is used here.
 
 To run the code, you need to install the package and its dependencies using 
 poetry:
